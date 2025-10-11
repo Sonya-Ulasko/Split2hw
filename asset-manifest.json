@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Split2hw/static/css/main.a69dad4a.css",
-    "main.js": "/Split2hw/static/js/main.afffd2c9.js",
+    "main.css": "/Split2hw/static/css/main.9725b8ec.css",
+    "main.js": "/Split2hw/static/js/main.088336d6.js",
     "static/js/787.67f55d8d.chunk.js": "/Split2hw/static/js/787.67f55d8d.chunk.js",
     "static/media/avatar.png": "/Split2hw/static/media/avatar.d947cb9d0d13765666b6.png",
     "index.html": "/Split2hw/index.html",
-    "main.a69dad4a.css.map": "/Split2hw/static/css/main.a69dad4a.css.map",
-    "main.afffd2c9.js.map": "/Split2hw/static/js/main.afffd2c9.js.map",
+    "main.9725b8ec.css.map": "/Split2hw/static/css/main.9725b8ec.css.map",
+    "main.088336d6.js.map": "/Split2hw/static/js/main.088336d6.js.map",
     "787.67f55d8d.chunk.js.map": "/Split2hw/static/js/787.67f55d8d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a69dad4a.css",
-    "static/js/main.afffd2c9.js"
+    "static/css/main.9725b8ec.css",
+    "static/js/main.088336d6.js"
   ]
 }
